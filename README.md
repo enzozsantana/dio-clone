@@ -1,4 +1,4 @@
-# Clone DIO 💻
+# Clone DIO
 
 Réplica das páginas Home, Login, Cadastro e Feed da DIO, utilizando React CLI, Estilização com styled-components, Hooks e Formulários para o curso "Formação React Developer" da DIO.
 
