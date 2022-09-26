@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Enzo",
+      "email": "enzo@email.com",
+      "senha": "123456",
+      "id": 1
+    },
+    {
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "senha": "123456",
+      "id": 2
+    },
+    {
+      "name": "João",
+      "email": "joao@email.com",
+      "senha": "123456",
+      "id": 3
+    },
+    {
+      "name": "José",
+      "email": "jose@email.com",
+      "senha": "123456",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Maria",
+      "email": "maria@email.com",
+      "senha": "123456"
+    },
+    {
+      "name": "teste teste",
+      "email": "teste@email.com",
+      "password": "testeteste",
+      "id": 6
+    }
+  ]
+}
