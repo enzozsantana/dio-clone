@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Clone DIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Réplica das páginas Home, Login, Cadastro e Feed da DIO, utilizando React CLI, Estilização com styled-components, Hooks e Formulários para o curso "Formação React Developer" da DIO.
 
 ## Available Scripts
 
