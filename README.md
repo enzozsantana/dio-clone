@@ -1,6 +1,11 @@
 # Clone DIO
 
-Réplica das páginas Home, Login, Cadastro e Feed da DIO, utilizando React CLI, Estilização com styled-components, Hooks e Formulários para o curso "Formação React Developer" da DIO.
+Réplica das páginas Home, Login, Cadastro e Feed da DIO, utilizando React CLI, Estilização com styled-components, Hooks e Formulários para o curso "Formação React Developer" da DIO.!
+
+![dio-clone1](https://user-images.githubusercontent.com/89364741/192528204-843e99d6-82c0-4763-9c9d-efb3157c5087.png)
+![dio-clone2](https://user-images.githubusercontent.com/89364741/192528211-f07bcd4b-96c5-4fa3-9954-d0d8fba3ee7e.png)
+[dio-clone3](https://user-images.githubusercontent.com/89364741/192528213-d6455d9e-26db-445c-a663-17c8a70111cc.png)
+![dio-clone4](https://user-images.githubusercontent.com/89364741/192528214-286aa629-8e6c-4c1e-b5ff-3c34af5f2662.png)
 
 ## 🖥 Tecnologias 
 
